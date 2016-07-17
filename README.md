@@ -17,6 +17,6 @@
 Весь исходный код распространяется под лицензией MIT
 
 ##Автор
-**Мамаев Александр** (alxmamaev)
+**Мамаев Александр** ([alxmamaev](https://alxmamaev.github.io/))
 <br>[Вконтакте](https://new.vk.com/alex__mamaev)
 <br>alxmamaev@mail.ru 
