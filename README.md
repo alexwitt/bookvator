@@ -39,4 +39,4 @@ print(result)
 ##Автор
 **Мамаев Александр** ([alxmamaev](https://alxmamaev.github.io/))
 <br>[Вконтакте](https://new.vk.com/alxmamaev)
-<br>alxmamaev@mail.ru 
+<br>alxmamaev@ya.ru 
